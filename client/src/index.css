@@ -1,0 +1,28 @@
+
+
+.cards{
+  display: flex;
+  padding: 20px  30px;
+  justify-content: center;
+  justify-items: center;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-items: center;
+    padding: 20px 0;
+}
+.app{
+  background-color: gray;
+  height: 1000px;
+  padding: 10px 10px;
+}
+.btn-back{
+  margin-left: 50px;
+}
+
+
+
+

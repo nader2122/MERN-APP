@@ -1,0 +1,11 @@
+export const GET_CONTACT_LOAD = "GET_CONTACT_LOAD";
+export const GET_CONTACT_FAIL = "GET_CONTACT_FAIL";
+export const GET_CONTACT_SUCESS = "GET_CONTACT_SUCESS";
+
+//get contact
+export const GET_CONTACT = "GET_CONTACT";
+export const POST_CONTACT = "POST_CONTACT";
+export const DELETE_CONTACT = "DELETE_CONTACT";
+export const EDIT_CONTACT = "EDIT_CONTACT";
+
+
